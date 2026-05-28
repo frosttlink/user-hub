@@ -1,4 +1,4 @@
-# Users CRUD API 👥
+# Users HUB API 👥
 
 Uma API RESTful completa para gerenciamento de usuários desenvolvida em Go com PostgreSQL, implementando todas as operações básicas (Create, Read, Update, Delete) com validações robustas e tratamento de erros.
 
